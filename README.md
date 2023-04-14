@@ -1,4 +1,4 @@
-# ProxyList-Proxy Scraper [v1.1]
+# ProxyList-Proxy Scraper [v1.2]
 
 1-acount crate https://proxylist.to,
 2 -open https://proxylist.to/dashboard/ copy Key
