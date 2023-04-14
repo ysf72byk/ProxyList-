@@ -7,7 +7,7 @@ from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QHBoxLayout, QLa
 from PyQt5.QtGui import QFont, QTextCursor
 
 
-version = "1.1"
+version = "1.2"
 class ProxyList:
     def __init__(self, api_key, mode):
         self.api_key = api_key
